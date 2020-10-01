@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Smack API Documentation
 - 💬 Ask me about tech stuff
 - 🥅 2020 Goals: Learn react and node js
-- ⚡ Fun fact: listening musics for 12 hours every day 🎶🎶🎶
+- ⚡ Fun fact: listening musics for 10 hours every day 🎶🎶🎶
 
 
 ### Connect with me:
