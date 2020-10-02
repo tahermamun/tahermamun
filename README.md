@@ -51,7 +51,7 @@
 
 --- 
 
-[![Anik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anik1612)](https://github.com/anik1612/github-readme-stats)
+![Anik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anik1612)
 
 [Anik Sarker]: https://www.facebook.com/AnikSarker1612
 [twitter]: https://twitter.com/AnikSarker1612
