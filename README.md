@@ -49,9 +49,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik1612"/>
 
---- 
-
-![Anik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anik1612)
 
 [Anik Sarker]: https://www.facebook.com/AnikSarker1612
 [twitter]: https://twitter.com/AnikSarker1612
