@@ -1,20 +1,19 @@
-### Hi there, i'm [Anik Sarker]👋 
+### Hi there, i'm [Taher Mamun]
 
-- 🔭 I’m currently working [Programming Hero!](https://www.programming-hero.com/)
-- 🌱 I’m currently learning web development
+
+- 🌱 I’m currently learning web development & Programming
 - 👯 I’m looking to collaborate with other open source project
 - 💬 Ask me about tech stuff
 - 🥅 2021 Goals: Learn Next JS & Node JS 
-- ⚡ Fun fact: listening musics for 10 hours every day 🎶🎶🎶
+- ⚡ Fun fact: I love to Explore the world
 
 
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][linkedin]
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)][facebook] 
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)][medium]
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)][twitter]
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=instagram&logoColor=ffffff)][instagram]
-[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/9180869/anik-sarker)
+
 
 ---
 
@@ -30,9 +29,6 @@
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][github]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][github]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][github]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][github]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][github]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
@@ -42,17 +38,15 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=anik1612&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<img width="550px" alt="Taher Mamun Github Stats"  src="https://github-readme-stats.vercel.app/api?username=tahermamun&show_icons=true"/>
 
----
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik1612"/>
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=tahermamun&card_width=550)](https://github.com/tahermamun/tahermamun)
 
 
-[Anik Sarker]: https://www.facebook.com/AnikSarker1612
-[twitter]: https://twitter.com/AnikSarker1612
-[instagram]: https://www.instagram.com/anik_sarker_as
-[linkedin]: https://www.linkedin.com/in/aniksarker1612
-[facebook]: https://www.facebook.com/AnikSarker1612
-[medium]: https://medium.com/@aniksarker1612
-[github]: https://github.com/anik1612
+
+[Taher Mamun]: https://www.tahermamun.com
+[twitter]: https://twitter.com/tahermamun10
+[instagram]: https://www.instagram.com/tahermamun10
+[linkedin]: https://www.linkedin.com/in/tahermamun
+[facebook]: https://www.facebook.com/tahermamun10
+[github]: https://github.com/tahermamun
