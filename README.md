@@ -4,10 +4,9 @@
 - 🌱 I’m currently learning web development & Programming
 - 👯 I’m looking to collaborate with other open source project
 - 💬 Ask me about tech stuff
-- 🥅 2021 Goals: Learn Next JS & Node JS 
 - ⚡ Fun fact: I love to Explore the world
 
-
+<!-- - 🥅 2021 Goals: Learn Next JS & Node JS  -->
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][linkedin]
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)][facebook] 
