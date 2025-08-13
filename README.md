@@ -1,51 +1,59 @@
-### Hi there, i'm [Taher Mamun]
+<h1 align="center">Hi 👋, I'm Taher Mamun</h1>
+<h3 align="center">💻 Software Developer | 🌍 World Traveler | 🚀 Tech Explorer</h3>
 
-
-- 🌱 I’m currently learning web development & Programming
-- 👯 I’m looking to collaborate with other open source project
-- 💬 Ask me about tech stuff
-- ⚡ Fun fact: I love to Explore the world
-
-<!-- - 🥅 2021 Goals: Learn Next JS & Node JS  -->
-### Connect with me:
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][linkedin]
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)][facebook] 
-[![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)][twitter]
-[![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=instagram&logoColor=ffffff)][instagram]
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tahermamun&label=Profile%20Views&color=0e75b6&style=flat" alt="tahermamun" /> 
+  <img src="https://img.shields.io/github/followers/tahermamun?label=Followers&style=social" alt="followers" />
+</p>
 
 ---
 
+### 🚀 About Me
 
-### Languages and Tools:
+I’m **Taher Mamun**, a passionate **Software Developer** and lifelong learner who loves turning ideas into real-world solutions.  
+My journey blends **Web Development** and **Software Engineering**, with an eagerness to explore **Python**, **Data Structures & Algorithms**, and cutting-edge technologies.
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][github]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][github]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][github]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][github]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Taher Mamun]
+Beyond coding, I’m a **world traveler** who has explored many countries, always seeking new perspectives and experiences.  
+I believe in writing clean, maintainable code, collaborating on impactful open-source projects, and constantly leveling up my skills to stay ahead in the fast-paced tech world.
 
-<br />
+💡 _Code. Learn. Explore. Repeat._
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/tahermamun" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/tahermamun10" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" /></a>
+<a href="https://instagram.com/tahermamun10" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" /></a>
+<a href="https://facebook.com/tahermamun10" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white" /></a>
+</p>
 
 ---
 
-<img width="550px" alt="Taher Mamun Github Stats"  src="https://github-readme-stats.vercel.app/api?username=tahermamun&show_icons=true"/>
+### 📊 GitHub Stats
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=tahermamun&card_width=550)](https://github.com/tahermamun/tahermamun)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tahermamun&show_icons=true&theme=radical" alt="tahermamun stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahermamun&layout=compact&theme=radical" height="165" />
+</p>
 
+---
 
+### 🔥 GitHub Streak
 
-[Taher Mamun]: https://www.tahermamun.com
-[twitter]: https://twitter.com/tahermamun10
-[instagram]: https://www.instagram.com/tahermamun10
-[linkedin]: https://www.linkedin.com/in/tahermamun
-[facebook]: https://www.facebook.com/tahermamun10
-[github]: https://github.com/tahermamun
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tahermamun&theme=radical" alt="streak stats" />
+</p>
+
+---
+
+### ✨ Random Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+</p>
+
+---
+
+### 🌍 Travel & Life
+
+> “Code, travel, repeat.” – My motto as a developer and adventurer.
